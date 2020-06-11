@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         
         
         print("Hello World Ko petter, Juan, Bayu")
-        print("string")
+        print("string apa")
         
         
         print ("Good morning!")
